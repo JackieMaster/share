@@ -1,5 +1,3 @@
-# share
-
 import { ValidationArguments } from '../validation/ValidationArguments';
 /**
  * Options used to pass to validation decorators.
